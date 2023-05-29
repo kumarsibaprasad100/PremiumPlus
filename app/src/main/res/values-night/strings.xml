@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="select_client_name">Select client name</string>
+    <string name="google_maps_key">AIzaSyA1HXGMvcSrV4dsw8PGG9ECF11IcmXhTJ4</string>
+    <string name="confirm">Confirm</string>
+    <string name="addClient">Add Client</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
